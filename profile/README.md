@@ -13,4 +13,3 @@
 - [admin@eggroll.club](mailto:admin@eggroll.club)
 - 上述网站的评论区
 - [Telegram频道](https://t.me/bedtimenewsarchive)
-- [蛋卷俱乐部附属论坛](https://forum.eggroll.club/u/eradmin/notes)
