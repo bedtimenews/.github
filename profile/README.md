@@ -10,4 +10,5 @@
 ## 联系我们
 
 - 上述网站的评论区
+- [admin@external.eggroll.club](mailto:admin@external.eggroll.club)
 - [Telegram频道](https://t.me/bedtimenewsarchive)
